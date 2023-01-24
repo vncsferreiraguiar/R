@@ -365,6 +365,6 @@ View(previsoes_novos_clientes)
 
 # Fim
 
-# O que vimos aqui foi apenas uma breve demonstração do que é Machine Learning.
-# Para aprender como construir e aplicar modelos de Machine Learning em diferentes problemas de negócio confira os demais cursos em nosso portal:
-# https://www.datascienceacademy.com.br/pages/todos-os-cursos-dsa
+#Projeto DataScienceAcademy  
+#Fonte de Dados:
+# https://www.datascienceacademy.com.br/
