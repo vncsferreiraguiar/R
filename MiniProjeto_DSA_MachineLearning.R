@@ -9,9 +9,6 @@ setwd("C:/Users/User/Documents/Exercicios_PBI/DataScienceAcademy/Cap15")
 getwd()
 
 
-#Definição do Problema
-#Leio o manual em pdf no capitulo 15 do curso como a definição do problema
-
 #Instalando os pacotes para o projeto
 #obs: a instalação precisa ser feita apenas uma vez
 #install.packages("Amelia")
